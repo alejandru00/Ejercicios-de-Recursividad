@@ -6,6 +6,7 @@
 
 *****************************
   -Ejercicio 1: Búsqueda por dicotomía en una tabla ordenada.
+  
   -Ejercicio 2: Palíndromos.
+  
   -Ejercicio 3: La bandera de Dijkstra.
-
